@@ -1,4 +1,8 @@
-# Hello!
+# Welcome 🥳
+
+Hello! This is my STATS220 website ✌🏻
+
+## About me 👀
 
 Here are the codes:
 
