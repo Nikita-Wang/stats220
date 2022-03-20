@@ -1,6 +1,6 @@
 # Welcome 🥳
 
-Hello! This is my STATS220 website ✌🏻
+Hello! This is my STATS220 website 🧸
 
 ## About me 👀
 
@@ -13,11 +13,11 @@ Hello! This is my STATS220 website ✌🏻
      2. keeping a diary
      3. reading 📚
      4. learning different languages 
-     5. 
-- 
+     5. play the piano 🎹 & listening to the music 🎧
+     6. 🏸🚴🏻🏊🏻‍♀️⛸🎡🎬...... 
 
 
-## I learn to make my own meme 😎
+## I learned to make my own meme 😎
 
 The meme below was made by me using the R package [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
 
