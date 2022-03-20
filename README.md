@@ -13,7 +13,7 @@ Here is my [stats220 website](https://nikita-wang.github.io/stats220/)!
 Have fun! 🥳🥳🥳
 
 
-
+![wink](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQayWTgDrzNqQWMVUPzoOYPV6BYeRy_TYAi5A&usqp=CAU)
 
 
 
