@@ -4,6 +4,10 @@ Hello! This is my STATS220 website ✌🏻
 
 ## About me 👀
 
+- I am a Chinese girl and I'm now reading for a [data science degree](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/data-science.html) 💖 at the [University of Auckland](https://www.auckland.ac.nz/en.html).
+
+- I **LOVE** dogs 🥰 (especially the golden retriever)
+
 Here are the codes:
 
 ```r
