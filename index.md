@@ -17,6 +17,13 @@ Hello! This is my STATS220 website ✌🏻
 - 
 
 
+## I learn to make my own meme 😎
+
+The meme below was made by me using the R package [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
+
+![](my_meme.png)
+
+
 Here are the codes:
 
 ```r
