@@ -27,7 +27,7 @@ The meme below was made by me using the R package [{magick}](https://cran.r-proj
 
 1. Since I really love golden retriever, I think it is awesome to use the pictures of golden retriever to be my first meme 😉
 2. I found the meme I liked and make the caption for each picture by myself 📝
-3. Use the code below to creat my own meme ✌🏻
+3. Use the `R` code below to creat my own meme ✌🏻
 
 Here are the codes:
 
