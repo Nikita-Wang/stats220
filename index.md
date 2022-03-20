@@ -11,7 +11,7 @@ Hello! This is my STATS220 website 🧸
 - I have a series of interests, such as 
      1. *EATING EATING EATING* 😋
      2. keeping a diary
-     3. reading 📚
+     3. reading 📚 & watching documentaries 🎞
      4. learning different languages 
      5. playing the piano 🎹 & listening to the music 🎧
      6. 🏸🚴🏻🏊🏻‍♀️⛸🎡🎬...... 
