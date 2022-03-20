@@ -9,11 +9,11 @@ Hello! This is my STATS220 website 🧸
 - I **LOVE** dogs 🥰 (especially the golden retriever)
 
 - I have a series of interests, such as 
-     1. *EATING* 😋
+     1. *EATING EATING EATING* 😋
      2. keeping a diary
      3. reading 📚
      4. learning different languages 
-     5. play the piano 🎹 & listening to the music 🎧
+     5. playing the piano 🎹 & listening to the music 🎧
      6. 🏸🚴🏻🏊🏻‍♀️⛸🎡🎬...... 
 
 
@@ -22,6 +22,8 @@ Hello! This is my STATS220 website 🧸
 The meme below was made by me using the R package [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
 
 ![](my_meme.png)
+
+### More about my meme
 
 
 Here are the codes:
