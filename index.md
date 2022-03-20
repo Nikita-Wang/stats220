@@ -8,6 +8,15 @@ Hello! This is my STATS220 website ✌🏻
 
 - I **LOVE** dogs 🥰 (especially the golden retriever)
 
+- I have a series of interests, such as 
+     1. *EATING* 😋
+     2. keeping a diary
+     3. reading 📚
+     4. learning different languages 
+     5. 
+- 
+
+
 Here are the codes:
 
 ```r
