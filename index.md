@@ -2,6 +2,7 @@
 
 Here are the codes:
 
+```r
 library(magick)
 
 exciting_dog <- image_read("https://www.meme-arsenal.com/memes/3628e4f08adb608f0fb992baf7030062.jpg")%>%
@@ -53,3 +54,5 @@ final_row <- c(resting_dog, me_text) %>%
 
 my_meme <- c(first_row, second_row, final_row) %>%
   image_append(stack = TRUE)
+  
+```
